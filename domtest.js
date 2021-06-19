@@ -33,6 +33,7 @@ class Node {
     this.atts.href = val;
   }
 }
+
 class Document {
   createElement(tag) {
     return new Node(tag);
