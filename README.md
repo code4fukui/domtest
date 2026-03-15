@@ -1,4 +1,7 @@
 # domtest
+
+> 日本語のREADMEはこちらです: [README.ja.md](README.ja.md)
+
 A minimal DOM implementation for testing purposes.
 
 ## Features
